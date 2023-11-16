@@ -98,7 +98,7 @@ var allSpells = [
       "school": "Воплощение",
       "castingTime": "1 действие",
       "range": "120 футов",
-      "materials": "кусочек фосфора, гнилушка или светлячок",
+      "materials": "фосфор, гнилушка или светлячок",
       "components": "В, С, M",
       "duration": "К-ция, до 1 мин",
       "source": "PHB"
@@ -150,7 +150,7 @@ var allSpells = [
       "school": "очарование",
       "castingTime": "1 действие",
       "range": "На себя",
-      "materials": "небольшое количество грима, наносимое на лицо при накладывании заклинания",
+      "materials": "небольшое количество грима",
       "components": "С, М",
       "duration": "К-ция, до 1 мин",
       "source": "PHB"
@@ -11854,7 +11854,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "120 футов",
    "components": "В, С, М",
-   "materials": "(кокон гусеницы)",
+   "materials": "кокон гусеницы",
    "duration": "К-ция, до 1 часа"
   }
  },
@@ -11890,7 +11890,7 @@ var allSpells = [
    "castingTime": "1 minute",
    "range": "1 mile",
    "components": "V, S, M",
-   "materials": "(a diamond worth at least 500 gp, which the spell consumes)",
+   "materials": "a diamond worth at least 500 gp, which the spell consumes",
    "duration": "Instantaneous",
    "text": "A fortress of stone erupts from a square area of groundof your choice that you can see within range. The area is120 feet on each side, and it must not have any buildingsor other structures on it. Any creatures in the area areharmlessly lifted up as the fortress rises.<br>The fortress has four turrets with square bases, eachone 20 feet on a side and 30 feet tall, with one turret oneach corner. The turrets are connected to each other bystone walls that are each 80 feet long, creating an en-closed area. Each wall is 1 foot thick and is composed ofpanels that are 10 feet wide and 20 feet tall. Each panelis contiguous with two other panels or one other paneland a turret. You can place up to four stone doors in thefortress's outer wall.<br>A small keep stands inside the enclosed area. Thekeep has a square base that is 50 feet on each side, andit has three floors with 10-foot-high ceilings. Each of thefloors can be divided into as many rooms as you like,provided each room is at least 5 feet on each side. Thefloors of the keep are connected by stone staircases, itswalls are 6 inches thick, and interior rooms can havestone doors or open archways as you choose. The keepis furnished and decorated however you like, and it con—tains sufficient food to serve a nine-course banquet forup to 100 people each day. Furnishings, food, and otherobjects created by this spell crumble to dust if removedfrom the fortress.<br>A staff of one hundred invisible servants obeys anycommand given to them by creatures you designatewhen you cast the spell. Each servant functions as if createdby the unseen servant spell.<br>The walls, turrets, and keep are all made of stonethat can be damaged. Each 10—foot—bya10-foot section ofstone has AC 15 and 30 hit points per inch of thickness.<br>It is immune to poison and psychic damage. Reducinga section of stone to 0 hit points destroys it and mightcause connected sections to buckle and collapse at the<br>DM's discretion.<br>After 7 days or when you cast this spell somewhereelse, the fortress harmlessly crumbles and sinks backinto the ground, leaving any creatures that were inside itsafely on the ground.<br>Casting this spell on the same spot once every 7 daysfor a year makes the fortress permanent.",
 	 "source": "XGTE"
@@ -11902,7 +11902,7 @@ var allSpells = [
    "castingTime": "1 минута",
    "range": "1 миля",
    "components": "В, С, М",
-   "materials": "(бриллиант стоимостью не менее 500 зм, расходуемый заклинанием)",
+   "materials": "бриллиант стоимостью не менее 500 зм, расходуемый заклинанием",
    "duration": "Мгновенно",
    "text": "Каменная крепость вырывается из квадратногоучастка земли, который вы можете видеть в пределахдистанции. Сторона этого квадрата составляет 120футов, и на ней не должно быть никаких зданий илидругих сооружений. Любые существа в этом участкебезвредно поднимаются вместе с крепостью.<br>У крепости есть четыре башни с квадратнымиоснованиями, сторонами 20 футов и высотой 30футов, по одной на каждом углу. Башни соединеныдруг с другом каменными стенами, каждая длиной80 футов, создавая замкнутую область. Каждая стенаимеет толщину 1 фут и состоит из блоков шириной10 футов и высотой 20 футов. Каждый из них соприкасается с двумя другими блоками или одним блокоми башней. Вы можете разместить до 4 каменныхдверей на внешней стене крепости.<br>Внутри закрытой области находится небольшаяцитадель. Цитадель имеет квадратное основание состороной 50 футов и состоит из 3 этажей с высотойпотолка 10 футов. Каждый из этажей может бытьразделён на любое количество комнат по вашемужеланию, при условии, что длина каждой из сторонкомнаты будет не менее 5 футов.<br>Этажи цитадели соединены каменными лестничными пролётами, толщина её стен составляет 6 дюймов,а внутренние комнаты могут иметь каменные двериили открытые арки по вашему желанию. Цитадельмеблирована и украшена так, как вам нравится, исодержит достаточное количество еды для обслуживания банкета на девять блюд вплоть до 100 человек накаждый день. Мебель, украшения, еда и другие предметы, созданные этим заклинанием, рассыпаются впыль, если оказываются за пределами крепости.<br>Сто невидимых слуг в крепости подчиняютсялюбой команде, данной им существами, которых выуказываете, когда сотворяете заклинание. Каждыйслуга действует так, как будто создаётся заклинаниемневидимый слуга [unseen servant].<br>Стены, башни и цитадель сделаны из камня, который может быть разрушен. Каждая каменная секцияразмером 10 на 10 футов имеет КД 15 и 30 хитов накаждый дюйм толщины. Секция иммунна к яду иурону психической энергией. Снижение хитов секции до 0 разрушает её и может вызвать разрушениеближайших секций по усмотрению Мастера.<br>Через 7 дней или когда вы сотворяете это заклинание где-то ещё, крепость рушится без вреда длясуществ, находящихся внутри неё, и опускаетсяобратно под землю, оставляя существ на земле.<br>Применение заклинания на одну и ту же точкукаждые семь дней в течение года делает крепостьпостоянной."
   }
@@ -11938,7 +11938,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "60 feet",
    "components": "V, M",
-   "materials": "(a broken bone and a square of black silk)",
+   "materials": "a broken bone and a square of black silk",
    "duration": "Instantaneous",
    "text": "You send ribbons of negative energy at one creature youcan see within range. Unless the target is undead. itmust make a Constitution saving throw, taking 5d12 necroticdamage on a failed save, or half as much damageon a successful one. A target killed by this damage risesup as a zombie at the start of your next turn. The zombiepursues whatever creature it can see that is closest to it.<br>Statistics for the zombie are in the Monster Manual.<br>If you target an undead with this spell, the targetdoesn't make a saving throw. Instead, roll 5d12. The targetgains half the total as temporary hit points.",
 	 "source": "XGTE"
@@ -11950,7 +11950,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "60 футов",
    "components": "В, С, М",
-   "materials": "(сломанная кость и квадрат черного шелка)",
+   "materials": "сломанная кость и квадрат черного шелка",
    "duration": "Мгновенно",
    "text": "Вы посылаете ленты негативной энергии в одно существо, которое видите в пределах дистанции. Еслицель не является нежитью, она должна совершитьспасбросок Телосложения и получить 5к12 уронанекротической энергией при провале или половинуэтого урона при успехе. Цель, убитая этим уроном,восстает в виде зомби в начале вашего следующегохода. Зомби преследует любое существо, которое может видеть и которое ближе всего к нему. Параметрызомби находятся в Бестиарии.<br>Если вы нацеливаете это заклинание на нежить,цель не совершает спасбросок. Вместо этого бросьте5к12. Цель получает половину выпавшего значения вкачестве временных хитов."
   }
@@ -12078,7 +12078,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "Self",
    "components": "V, S, M",
-	 "materials": "(an undead eyeball encased in a gem worth at least 150 gp)",
+	 "materials": "an undead eyeball encased in a gem worth at least 150 gp)",
    "text": "Flame~like shadows wreathe your body until the spellends, causing you to become heavily obscured to others.<br>The shadows turn dim light within 10 feet of you intodarkness, and bright light in the same area to dim light.<br>Until the spell ends, you have resistance to radiantdamage. In addition, whenever a creature within 10 feetof you hits you with an attack, the shadows lash out atthat creature, dealing it 2d8 necrotic damage.",
    "duration": "Concentration, up to 1 minute",
 	 "source": "XGTE"
@@ -12090,7 +12090,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "На себя",
    "components": "В, С, М",
-   "materials": "(глазное яблоко нежити, заключенное в драгоценный камень стоимостью не менее 150 зм)",
+   "materials": "глазное яблоко нежити, заключенное в драгоценный камень стоимостью не менее 150 зм",
    "duration": "К-ция, до 1 мин",
    "text": "Пламевидные тени окутывают ваше тело на всёвремя действия заклинания, в результате чего выстановитесь сильно заслонённым для других. Тенипревращают тусклый свет в пределах 10 футов от васв темноту, а яркий свет в той же области – в тусклыйсвет.<br>Вы получаете сопротивление к урону излучениемдо окончания действия заклинания. Кроме того, всякий раз, когда существо, находящееся в пределах 10футов от вас, попадает по вам рукопашной атакой,тени атакуют его, причиняя урон некротическойэнергией 2к8."
   }
@@ -12200,7 +12200,7 @@ var allSpells = [
 	 "level": "5",
 	 "school": "Conjuration",
    "components": "S, M",
-   "materials": "(a melee weapon worth at least 1 sp)",
+   "materials": "a melee weapon worth at least 1 sp",
    "duration": "Instantaneous",
 	 "source": "XGTE"
   },
@@ -12211,7 +12211,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "30 футов",
    "components": "В, С, М",
-   "materials": "(оружие ближнего боя стоимостью не менее 1 см)",
+   "materials": "оружие ближнего боя стоимостью не менее 1 см)",
    "text": "Вы взмахиваете оружием, используемым для заклинания, а затем исчезаете, чтобы ударить, подобно ветру. Выберите до пяти существ в пределах дистанции, которых вы можете видеть. Совершите рукопашную атаку заклинанием по каждой цели. При попадании цель получает урон силовым полем 6к10.<br>После этого вы можете телепортироваться в свободное пространство, которое вы можете увидеть в пределах 5 футов от одной из целей, которую вы атаковали, независимо от того, попали вы по ней или промахнулись.",
    "duration": "Мгновенно"
   }
@@ -12224,7 +12224,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "60 feet",
    "components": "V, S, M",
-   "materials": "(a vial of blood from a humanoid killed within the past 24 hours)",
+   "materials": "a vial of blood from a humanoid killed within the past 24 hours",
    "duration": "Concentration, up to 1 hour",
    "text": "You utter foul words, summoning one demon from thechaos of the Abyss. You choose the demon's type, whichmust be one of challenge rating 5 or lower, such as ashadow demon or a barlgura. The demon appears inan unoccupied space you can see within range, and thedemon disappears when it drops to 0 hit points or whenthe spell ends.<br>Roll initiative for the demon, which has its own turns.<br>When you summon it and on each of your turns thereaf—ter, you can issue a verbal command to it (requiring noaction on your part), telling it what it must do on its nextturn. If you issue no command, it spends its turn attack—ing any creature within reach that has attacked it.<br>At the end of each of the demons turns, it makes a<br>Charisma saving throw. The demon has disadvantageon this saving throw if you say its true name. On a failed.save, the demon continues to obey you. On a success—ful save, your control of the demon ends for the rest ofthe duration, and the demon spends its turns pursuingand attacking the nearest non—demons to the best of itsability. If you stop concentrating on the spell before itreaches its full duration, an uncontrolled demon doesn'tdisappear for M6 rounds if it still has hit points.<br>As part of casting the spell, you can form a circleon the ground with the blood used as a material com~ponent. The circle is large enough to encompass yourspace. While the spell lasts, the summoned demon can'tcross the circle or harm it, and it can't target anyonewithin it. Using the material component in this mannerconsumes it when the spell ends.<b>At Higher Levels.</b> When you cast this spell using aspell slot of 5th level or higher, the challenge rating increasesby l for each slot level above 4th.",
 	 "source": "XGTE"
@@ -12236,7 +12236,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "60 футов",
    "components": "В, С, М",
-   "materials": "(сосуд с кровью гуманоида, убитого за последние 24 часа)",
+   "materials": "сосуд с кровью гуманоида, убитого за последние 24 часа",
    "duration": "К-ция, до 1 часа",
    "text": "Вы произносите инфернальные слова, призывая одного демона из хаоса Бездны. Вы выбираете типдемона, показатель опасности которого равен 5 илиниже, например, теневой демон или барлгура. Демонпоявляется в незанятом пространстве, которое выможете видеть в пределах дистанции. Демон исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается.Совершите проверку инициативы за демона, который будет совершать свои собственные ходы. Когдавы можете дать вербальную команду (действий нетребуется), сообщая ему, что он должен делать в свойследующий ход. Если вы не даёте никаких команд,демон тратит свой ход, атакуя любое существо в пределах досягаемости, которое атаковало его.<br>В конце каждого своего хода демон совершаетспасбросок Харизмы. Он получает помеху в этомспасброске, если вы назовёте его истинное имя. Вслучае провала демон продолжает подчиняться вам.<br>При успехе, демон освобождаете из-под вашегоконтроля на всё оставшееся время и тратит своипоследующие ходы, преследуя и атакуя ближайшихнедемонов в меру своих способностей. Если выперестанете держать концентрацию на заклинаниидо того, как оно достигнет своей полной продолжительности, неконтролируемый демон не исчезнет втечение 1к6 раундов, если его хиты ещё не равны 0.<br>Как часть колдовства вы можете начертить наземле круг кровью, используемой в качестве материального компонента. Круг должен быть достаточногоразмера, чтобы вместить вас. Пока заклинание длится, призванный демон не может пересечь круг илиразрушить его, и он не может атаковать никого в нём.<br>Если материальный компонент использован подобнымобразом, он расходуется при окончании заклинания.<br>На более высоких уровнях. Если вы сотворяетеэто заклинание, используя ячейку заклинания 5 уровня или выше, показатель опасности увеличивается на1 за каждый уровень ячейки выше 4."
   }
@@ -12250,7 +12250,7 @@ var allSpells = [
 	 "level": 3,
 	 "school": "Conjuration",
    "components": "V, S, M",
-   "materials": "(a vial of blood from a humanoid killed within the past 24 hours)",
+   "materials": "a vial of blood from a humanoid killed within the past 24 hours",
    "duration": "Concentration, up to 1 hour",
 	 "source": "XGTE"
   },
@@ -12261,7 +12261,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "60 футов",
    "components": "В, С, М",
-   "materials": "(сосуд с кровью гуманоида, убитого за последние 24 часа)",
+   "materials": "сосуд с кровью гуманоида, убитого за последние 24 часа",
    "duration": "К-ция, до 1 часа",
    "text": "Вы произносите инфернальные слова, призывая демонов из хаоса Бездны. Совершите бросок последующей таблице, чтобы определить, что именнопоявится.<table><tr><th>d6</th><th>Призванные демоны</th></tr><tr><td>1-2</td><td><br>Два демона с показателем опасности 1 или меньше</td></tr><tr><td>3-4</td><td><br>Четыре демона с показателем опасности 1/2 илименьше</td></tr><tr><td>5-6</td><td><br>Восемь демонов с показателем опасности 1/4 или меньше</td></tr></table><br>Мастер выбирает демонов, таких как мэйны илидретчи, а вы выбираете видимые вами свободныепространства в пределах дистанции, в которых онипоявятся. Призванный демон исчезает, когда егохиты опускаются до 0 или когда заклинание закончится.<br>Демоны враждебны ко всем существам, включаявас. Совершите проверку инициативы за призванныхдемонов как за одну группу, и они будут совершатьсвои собственные ходы. Демоны преследуют и атакуют ближайших недемонов в меру своих способностей.<br>Как часть колдовства вы можете начертить наземле круг кровью, используемой в качестве материального компонента. Круг должен быть достаточногоразмера, чтобы вместить вас. Пока заклинание длится, призванные демоны не могут пересечь круг илиразрушить его, и они не могут атаковать никого в нём.<br>Если материальный компонент использован подобнымобразом, он расходуется при окончании заклинания.<br>На более высоких уровнях. Когда вы сотворяетеэто заклинание, используя ячейку 6 или 7 уровня,вы вызываете в два раза больше демонов. Если высотворяете его с помощью ячейки заклинания 8 или9 уровня, вы вызываете в три раза больше демонов."
   }
@@ -12297,7 +12297,7 @@ var allSpells = [
    "castingTime": "1 hour",
    "range": "120 feet",
    "components": "V, S, M",
-   "materials": "(a holy symbol worth at least 5 gp)",
+   "materials": "a holy symbol worth at least 5 gp",
    "duration": "24 hours",
    "text": "You cause a temple to shimmer into existence on groundyou can see within range. The temple must fit within anunoccupied cube of space, up to 120 feet on each side.<br>The temple remains until the spell ends. It is dedicatedto whatever god, pantheon, or philosophy is representedby the holy symbol used in the casting.<br>You make all decisions about the temples appearance.<br>The interior is enclosed by a floor, walls, and aroof, with one door granting access to the interior andas many windows as you wish. Only you and any crea—tures you designate when you cast the spell can open orclose the door.<br>The temple's interior is an open space with an idolor altar at one end. You decide whether the temple isilluminated and whether that illumination is bright lightor dim light. The smell of burning incense fills the airwithin, and the temperature is mild.<br>The temple opposes types of creatures you choosewhen you cast this spell. Choose one or more of the following:celestials, elementals, fey, fiends, or undead. If acreature of the chosen type attempts to enter the temple,that creature must make a Charisma saving throw. Ona failed save, it can't enter the temple for 24 hours. Evenif the creature can enter the temple, the magic therehinders it; whenever it makes an attack roll, an abilitycheck, or a saving throw inside the temple, it must roll ad4 and subtract the number rolled from the d20 roll.can't appear inside the temple, and creatures within<br>Finally, whenever any creature in the temple regainshit points from a spell of let level or higher, the creatureregains additional hit points equal to your Wisdom mod—ifier (minimum 1 hit point).<br>The temple is made from opaque magical force thatextends into the Ethereal Plane, thus blocking etherealtravel into the temples interior. Nothing can physicallypass through the temple's exterior. It can't be dispelledby dispei magic, and antimagic field has no effect on it. Adisintegrate spell destroys the temple instantly.<br>Casting this spell on the same spot every day for ayear makes this effect permanent.",
 	 "source": "XGTE"
@@ -12322,7 +12322,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "Self",
    "components": "V, S, M",
-   "materials": "(a few hairs from a bull)",
+   "materials": "a few hairs from a bull",
    "duration": "Concentration, up to 10 minutes",
    "text": "You endow yourselfwith endurance and martial prowessfueled by magic. Until the spell ends, you can't castspells, and you gain the following benefits:<br>You gain 50 temporary hit points. If any of these remain when the spell ends, they are lost.<br>You have advantage on attack rolls that you make withsimple and martial weapons.<br>When you hit a target with a weapon attack, that tar-get takes an extra 2d 12 force damage.<br>You have proficiency with all armor, shields, simpleweapons, and martial weapons.<br>You have proficiency in Strength and Constitution sav—ing throws.<br>You can attack twice, instead of once, when you takethe Attack action on your turn. You ignore this benefitif you already have a feature, like Extra Attack, thatgives you extra attacks.<br>Immediately after the spell ends, you must succeed ona DC 15 Constitution saving throw or suffer one level of exhausuon.",
 	 "source": "XGTE"
@@ -12334,7 +12334,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "На себя",
    "components": "В, С, М",
-   "materials": "(несколько волосков быка)",
+   "materials": "несколько волосков быка",
    "duration": "К-ция, до 10 мин",
    "text": "Вы наделяете себя выносливостью и воинской доблестью, подпитываемыми магией. Пока заклинание незакончится, вы не можете накладывать заклинания,но получаете следующие преимущества:<ul><li>>Вы получаете 50 временных хитов. Если какоелибоих количество остаётся, когда заклинание заканчивается, они теряются.</li><li>Вы совершаете с преимуществом все броскиатаки, которые вы делаете простым или воинскиморужием.</li><li>Когда вы попадаете по цели атакой оружием, онаполучает дополнительный урон силовым полем 2к12.</li<li>Вы получаете владение всеми видами доспехов,щитов, простого и воинского оружия.</li><li>Вы получаете владение спасбросками Силы и Телосложения.</li><li>Если вы в свой ход совершаете действие Атака, выможете совершить две атаки вместо одной. Вы игнорируете это преимущество, если у вас уже естьподобное умение, которое даёт вам дополнительные атаки (например, Дополнительная атака).</li></ul><br>Сразу после того, как заклинание оканчивается, выдолжны преуспеть в спасброске Телосложения со Сл15 или получаете один уровень истощения."
   }
@@ -12416,7 +12416,7 @@ var allSpells = [
    "level": "5",
    "range": "120 feet",
    "components": "V, S, M",
-   "materials": "(a hand mirror)",
+   "materials": "a hand mirror",
    "duration": "Concentration, up to 10 minutes",
    "text": "A shimmering wall of bright light appears at a point youchoose within range. The wall appears in any orientationyou choose: horizontally, vertically, or diagonally. Itcan be free floating, or it can rest on a solid surface. Thewall can be up to 60 feet long, 10 feet high, and 5 feetthick. The wall blocks line of sight, but creatures and objectscan pass through it. It emits bright light out to 120feet and dim light for an additional 120 feet.<br>When the wall appears, each creature in its area mustmake a Constitution saving throw. On a failed save, acreature takes 4d8 radiant damage, and it is blinded for1 minute. On a successful save, it takes half as muchdamage and isn't blinded. A blinded creature can makea Constitution saving throw at the end of each of itsturns, ending the effect on itself on a success.<br>A creature that ends its turn in the wall's area takes4d8 radiant damage.<br>Until the spell ends, you can use an action to launch abeam of radiance from the wall at one creature you cansee within 60 feet of it. Make a ranged spell attack. Ona hit, the target takes 4d8 radiant damage. Whether youhit or miss, reduce the length of the wall by 10 feet. Ifthe walls length drops to 0 feet, the spell ends.<b>At Higher Levels.</b> When you cast this spell using aspell slot of 6th level or higher, the damage increases by1d8 for each slot level above 5th.",
 	 "source": "XGTE"
@@ -12428,7 +12428,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "120 футов",
    "components": "В, С, М",
-   "materials": "(ручное зеркальце)",
+   "materials": "ручное зеркальце",
    "duration": "К-ция, до 10 мин",
    "text": "Мерцающая стена яркого света появляется в точке,которую вы выбираете в пределах дистанции. Стенапоявляется в любой выбранной вами ориентации: погоризонтали, вертикали или диагонали. Она может свободно парить или же опираться на твёрдую поверхность. Стена может иметь длину до 60 футов,высоту до 10 футов и толщину до 5 футов. Стена блокирует линию обзора, но существа и объекты могут проходить через неё. Он излучает яркий свет на 120футов и тусклый свет на дополнительные 120 футов.<br>Когда стена появляется, каждое существо в её области должно сделать спасбросок Телосложения. При провале существо получает 4к8 урона излучением и становится ослеплённым на 1 минуту. При успехе оно получает только половину урона и не ослеплено.<br>Ослеплённое существо может совершать спасбросок<br>Телосложения в конце каждого своего хода, при успехе оканчивая эффект на себе.<br>Существо, которое заканчивает свой ход в пространстве стены, получает 4к8 урона излучением.<br>Пока заклинание не закончится, вы можете действием направить сияющий луч от стены на одно существо, которое вы можете видеть на расстоянии60 футов от неё. Для этого совершите дальнобойную атаку заклинанием. При попадании цель получает4к8 урона излучением. Независимо от того, попали вы или промахнулись, длина стены уменьшится на10 футов. Если длина стены уменьшается до 0 футов,заклинание заканчивается.<br>На более высоких уровнях. Если вы сотворяете это заклинание, используя ячейку заклинания 6 уровня или выше, урон увеличивается на 1к8 для каждого уровня ячейки выше 5."
   }
@@ -12441,7 +12441,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(a handful of sand)",
+   "materials": "a handful of sand",
    "duration": "Concentration, up to 10 minutes",
    "text": "You create a wall of swirling sand on the ground at apoint you can see within range. You can make the wallup to 30 feet long, 10 feet high, and 10 feet thick, and itvanishes when the spell ends. It blocks line of sight butnot movement. A creature is blinded while in the wallsspace and must spend 3 feet of movement for every 1foot it moves there.",
 	 "source": "XGTE"
@@ -12453,7 +12453,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(горсть песка)",
+   "materials": "горсть песка",
    "duration": "К-ция, до 10 мин",
    "text": "Вы создаёте стену из кружащегося песка в видимойточке на горизонтальной поверхности в пределахдистанции заклинания. Точка должна располагаться на поверхности. Стена может быть длиной до 30футов, высотой до 10 футов и толщиной до 10 футов.<br>Она существует до тех пор, пока действует заклинание. Стена блокирует линию обзора, но не блокируетдвижение. Находясь внутри стены, существо считается ослеплённым, и тратит 3 фута перемещения закаждый пройдённый фут."
   }
@@ -12466,7 +12466,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "5 feet",
    "components": "V, M",
-   "materials": "(a holy symbol)",
+   "materials": "a holy symbol",
    "duration": "Instantaneous",
    "text": "You utter a divine word, and burning radiance eruptsfrom you. Each creature of your choice that you can seewithin range must succeed on a Constitution savingthrow or take ld6 radiant damage.<br>The spell's damage increases by 1d6 when you reach5th level (2d6), 11th level (3d6), and 17th level (4d6).",
 	 "source": "XGTE"
@@ -12478,7 +12478,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "5 футов",
    "components": "В, С, М",
-   "materials": "(священный символ)",
+   "materials": "священный символ",
    "duration": "Мгновенно",
    "text": "Вы произносите божественное слово и извергаете изсебя обжигающее сияние. Каждое существо по вашему выбору, которое вы можете видеть в пределахдистанции, должно преуспеть в спасброске Телосложения или получит урон излучением 1к6.<br>Урон заклинания увеличивается на 1к6, когда выдостигаете 5 уровня (2к6), 11 уровня (3к6), и 17 уровня (4к6)."
   }
@@ -12566,7 +12566,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "Self (5-foot radius)",
    "components": "S, M",
-   "materials": "(a melee weapon worth at least 1 sp)",
+   "materials": "a melee weapon worth at least 1 sp",
    "duration": "1 round",
    "text": "You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack's normal effects and then becomes sheathed in booming energy until the start of your next turn. If the target willingly moves 5 feet or more before then, the target takes ld8 thunder damage, and the spell ends. <br>This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra ld8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by ld8 at 1 1th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).",
 	 "source": "TCoE"
@@ -12578,7 +12578,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "На себя (5-футовый радиус)",
    "components": "С, М",
-   "materials": "(оружие ближнего боя стоимостью не менее 1 см)",
+   "materials": "оружие ближнего боя стоимостью не менее 1 см",
    "duration": "1 раунд",
    "text": "Вы взмахиваете оружием, выбранным в качестве материального компонента, и совершаете рукопашную атаку оружием против одного существа в пределах 5 футов от вас. При попадании цель подвергается обычному эффекту от атаки этим оружием и покрывается бушующей энергией до начала вашего следующего хода. Если цель добровольно перемещается на 5 футов или более до окончания действия заклинания, она получает 1к8 урона звуком, и действие заклинания заканчивается. <br>Урон этого заклинания увеличивается, когда вы достигаете определённых уровней. На 5-м уровне рукопашная атака наносит дополнительно 1к8 урона звуком при попадании, а урон, получаемый при перемещении, увеличивается до 2к8. Оба броска урона снова увеличиваются на 1к8 на 11-м уровне (2к8 и 3к8) и на 17-м уровне (3к8 и 4к8)."
   }
@@ -12591,7 +12591,7 @@ var allSpells = [
    "castingTime": "10 minutes",
    "range": "20 feet",
    "components": "V, S, M",
-   "materials": "(a magic item or a willing creature from the destination world)",
+   "materials": "a magic item or a willing creature from the destination world",
    "duration": "6 hours",
    "text": "You and up to eight willing creatures within range fall unconscious for the spell's duration and experience visions of another world on the Material Plane, such as Oerth, Tori!, Krynn, or Eberron. If the spell reaches its full duration, the visions conclude with each of you encountering and pulling back a mysterious blue curtain. The spell then ends with you mentally and physically transported to the world that was in the visions. <br>To cast this spell, you must have a magic item that originated on the world you wish to reach, and you must be aware of the world's existence, even if you don't know the world's name. Your destination in the other world is a safe location within 1 mile of where the magic item was created. Alternatively, you can cast the spell if one of the affected creatures was born on the other world, which causes your destination to be a safe location within 1 mile of where that creature was born. <br>The spell ends early on a creature if that creature takes any damage, and the creature isn't transported. If you take any damage, the spell ends for you and all the other creatures, with none of you being transported.",
 	 "source": "TCoE"
@@ -12603,7 +12603,7 @@ var allSpells = [
    "castingTime": "10 минут",
    "range": "20 футов",
    "components": "В, С, М",
-   "materials": "(магический предмет или согласное существо из мира назначения)",
+   "materials": "магический предмет или согласное существо из мира назначения",
    "duration": "6 часов",
    "text": "Вы и до восьми согласных существ в пределах досягаемости теряете сознание на время действия заклинания и испытываете видения другого мира на Материальном плане, как, например, Орта, Торила, Кринна или Эберрона. Если заклинание поддерживается в течение своей полной длительности, то видения приводят к тому, что каждый из вас находит и отодвигает загадочный синий занавес. Заклинание заканчивается тем, что вы ментально и физически переноситесь в мир, который был в видениях. <br>Чтобы произнести это заклинание, у вас должен быть магический предмет, созданный в мире, в который вы хотите попасть, и вы должны знать о существовании этого мира, даже если вы не знаете его названия. Вы попадает в безопасное место в пределах 1 мили от того места, где используемый магический предмет был создан. Вы можете наложить заклинание без магического предмета, если одно из существ под действием этого заклинания родилось в том мире. В таком случае пункт назначения будет безопасным местом в пределах 1 мили от того места, где это существо родилось. <br>Заклинание заканчивается раньше времени для существа, получающего какой-либо урон, и это существо не переносится. Если заклинатель получает какой-либо урон, заклинание заканчивается для всех существ, и никто не будет перенесён."
   }
@@ -12641,7 +12641,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "Self (5-foot radius)",
    "components": "S, M",
-   "materials": "(a melee weapon worth at least 1 sp)",
+   "materials": "a melee weapon worth at least 1 sp",
    "duration": "Instantaneous",
    "text": "You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack's normal effects, and you can cause green fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier. <br> This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 fire damage to the target on a hit, and the fire damage to the second creature increases to 1d8 + your spellcasting ability modifier. Both damage rolls increase by 1d8 at 1 1th level (2d8 and 2d8) and 17th level (3d8 and 3d8).",
 	 "source": "TCoE"
@@ -12653,7 +12653,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "На себя (5-футовый радиус)",
    "components": "С, М",
-   "materials": "(оружие ближнего боя стоимостью не менее 1 см)",
+   "materials": "оружие ближнего боя стоимостью не менее 1 см",
    "duration": "Мгновенно",
    "text": "Вы взмахиваете оружием, выбранным в качестве материального компонента, и совершаете рукопашную атаку оружием против одного существа в пределах 5 футов от вас. При попадании цель подвергается обычному эффекту атаки этим оружием, и вы можете заставить зелёный огонь перекинуться от цели к другому существу по вашему выбору, которое вы можете видеть в пределах 5 футов от цели. Второе существо получает урон огнём, равный вашему модификатору базовой характеристики. <br>Урон этого заклинания увеличивается, когда вы достигаете определённых уровней. На 5-м уровне рукопашная атака наносит дополнительно 1к8 урона огнём, а урон, получаемый вторым существом, увеличивается до 1к8 + ваш модификатор базовой характеристики. Оба этих урона увеличиваются на 1к8 на 11-м уровне (2к8 и 2к8) и 17-м уровне (3к8 и 3к8)."
   }
@@ -12716,7 +12716,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(a pickled tentacle and an eyeball in a platinum-inlaid vial worth at least 400 gp)",
+   "materials": "a pickled tentacle and an eyeball in a platinum-inlaid vial worth at least 400 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Aberrant Spirit stat block. When you cast the spell, choose Beholderkin, Slaad, or Star Spawn. The creature resembles an aberration of that kind, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.<br>At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block",
 	 "source": "TCoE"
@@ -12728,7 +12728,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(заспиртованные щупальце и глазное яблоко в сосуде с платиновой инкрустацией стоимостью не менее 400 зм)",
+   "materials": "заспиртованные щупальце и глазное яблоко в сосуде с платиновой инкрустацией стоимостью не менее 400 зм",
    "duration": "К-ция, до 1 мин",
    "text": "Вы призываете духа аберрации. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики духа аберрации. Когда вы накладываете заклинание, выберите тип духа: бехолдер, слаад или звёздное порождение. Дух принимает форму выбранной аберрации и имеет соответствующие признаки, описанные в блоке статистики. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу и ходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей. <br>На больших уровнях. Когда вы накладываете это заклинание, используя ячейку 5-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12741,7 +12741,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200 gp)",
+   "materials": "a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Bestial Spirit stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.<br>At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, use the higher level wherever the spell's level appears in the stat block.",
 	 "source": "TCoE"
@@ -12753,7 +12753,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(перо, пучок меха и рыбий хвост внутри позолоченного жёлудя стоимостью не менее 200 зм)",
+   "materials": "перо, пучок меха и рыбий хвост внутри позолоченного жёлудя стоимостью не менее 200 зм",
    "duration": "К-ция, до 1 часа",
    "text": "Вы призываете духа зверя. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики духа зверя. Когда вы накладываете заклинание, выберите среду обитания: воздух, земля или вода. Дух принимает форму животного по вашему выбору, для которого выбранная среда обитания является родной и имеет соответствующие признаки, описанные в блоке статистики. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу иходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей. <br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 3-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12766,7 +12766,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(a golden reliquary worth at least 500 gp)",
+   "materials": "a golden reliquary worth at least 500 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth a celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range. This corporeal form uses the Celestial Spirit stat block. When you cast the spell, choose Avenger or Defender. Your choice determines the creature's attack in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes.its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. <br><b>At Higher Levels.</b> When you cast this spell using a spell slot of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.",
 	 "source": "TCoE"
@@ -12778,7 +12778,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(золотой реликварий стоимостью не менее 500 зм)",
+   "materials": "золотой реликварий стоимостью не менее 500 зм",
    "duration": "К-ция, до 1 часа",
    "text": "Вы призываете духа небожителя. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики духа небожителя. Когда вы накладываете заклинание, выберите тип духа: мститель или защитник. Дух принимает форму выбранного небожителя, что определяет тип его атаки, описанный в блоке статистики. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу и ходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей. <br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 6-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12791,7 +12791,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(an ornate stone and metal lockbox worth at least 400 gp)",
+   "materials": "an ornate stone and metal lockbox worth at least 400 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Construct Spirit stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours.It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. <br><b>At Higher Levels.</b> When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.",
 	 "source": "TCoE"
@@ -12803,7 +12803,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(затейливая шкатулка с замком, сделанная из камня и металла, стоимостью не менее 400 зм)",
+   "materials": "затейливая шкатулка с замком, сделанная из камня и металла, стоимостью не менее 400 зм",
    "duration": "К-ция, до 1 часа",
    "text": "Вы призываете духа конструкта. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики духа конструкта. Когда вы накладываете заклинание, выберите материал: глина, металл или камень. Дух принимает форму голема или модрона по вашему выбору, изготовленного из выбранного материала, и имеет соответствующие признаки, описанные в блоке статистики. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу и ходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей. <br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 4-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12816,7 +12816,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp)",
+   "materials": "air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Elemental Spirit stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action requiredby you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. <br><b>At Higher Levels.</b> When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.",
 	 "source": "TCoE"
@@ -12828,7 +12828,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(воздух, галька, пепел и вода во флаконе с золотой инкрустацией стоимостью не менее 400 зм)",
+   "materials": "воздух, галька, пепел и вода во флаконе с золотой инкрустацией стоимостью не менее 400 зм",
    "duration": "К-ция, до 1 часа",
    "text": "Вы призываете духа стихии. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики стихийного духа. Когда вы накладываете заклинание, выберите стихию: воздух, земля, огонь или вода. Существо принимает форму чего-то двуногого, сплетённого из выбранной стихии, которая определяет особенности существа, описанные в блоке статистики. Существоисчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу и ходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей. <br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 5-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12841,7 +12841,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(a gilded flower worth at least 300 gp)",
+   "materials": "a gilded flower worth at least 300 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth a fey spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Fey Spirit stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a fey creature of your choice marked by the chosen mood, which determines one of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiativecount, but i t takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. <br><b>At Higher Levels.</b> When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.",
 	 "source": "TCoE"
@@ -12853,7 +12853,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(позолоченный цветок стоимостью не менее 300 зм)",
+   "materials": "позолоченный цветок стоимостью не менее 300 зм",
    "duration": "К-ция, до 1 часа",
    "text": "Вы призываете духа феи. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики духа феи. Когда вы накладываете заклинание, выберите настроение: сердитое, довольное, или лукавое. Дух принимает форму выбранного фейского существа с отчётливыми проявлениями выбранного настроения которая определяет особенности существа, описанные в блоке статистики. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу и ходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей. <br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 4-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12866,7 +12866,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(humanoid blood inside a ruby vial worth at least 600 gp)",
+   "materials": "humanoid blood inside a ruby vial worth at least 600 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Fiendish Spirit stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. <br><b>t Higher Levels.</b> When you cast this spell using a spell slot of 7th level or higher, use the higher level wherever the spell's level appears in the stat block.",
 	 "source": "TCoE"
@@ -12878,7 +12878,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(кровь гуманоида внутри рубинового флакона стоимостью не менее 600 зм)",
+   "materials": "кровь гуманоида внутри рубинового флакона стоимостью не менее 600 зм",
    "duration": "К-ция, до 1 часа",
    "text": "Вы призываете духа исчадия. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики духа исчадия. Когда вы накладываете заклинание, выберите тип духа: демон, дьявол или юголот. Дух принимает форму выбранного исчадия и имеет соответствующие признаки, описанные в блоке статистики. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу и ходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей.<br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 7-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12891,7 +12891,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(tears inside a gem worth at least 300 gp)",
+   "materials": "tears inside a gem worth at least 300 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. <br><b>At Higher Levels.</b> When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.",
 	 "source": "TCoE"
@@ -12903,7 +12903,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(слезы внутри драгоценного камня стоимостью не менее 300 зм)",
+   "materials": "слезы внутри драгоценного камня стоимостью не менее 300 зм",
    "duration": "К-ция, до 1 часа",
    "text": "Вы призываете духа тени. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики духа тени. Когда вы накладываете заклинание, выберите эмоцию: ярость, уныние или страх. Существо принимает форму бесформенного двуногого с отчётливыми проявлениями выбранной эмоции, которая определяет особенности существа, описанные в блоке статистики. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу и ходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей. <br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 4-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12916,7 +12916,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "90 feet",
    "components": "V, S, M",
-   "materials": "(a gilded skull worth at least 300 gp)",
+   "materials": "a gilded skull worth at least 300 gp",
    "duration": "Concentration, up to 1 hour",
    "text": "You call forth an undead spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Undead Spirit stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an undead creature with the chosen form, which determines certain traits in its stat block. The creature disappears when it drops to 0  hit points or when the spell ends. <br>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. <br><b>At Higher Levels.</b> When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.",
 	 "source": "TCoE"
@@ -12928,7 +12928,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(позолоченный череп стоимостью не менее 300 зм)",
+   "materials": "позолоченный череп стоимостью не менее 300 зм",
    "duration": "К-ция, до 1 часа",
    "text": "Вы призываете духа нежити. Он проявляется в незанятом пространстве, которое вы можете видеть в пределах дистанции. Воплощённая форма духа использует блок статистики духа нежити. Когда вы накладываете заклинание, выберите форму духа: призрачный, гнилой или скелетный. Дух принимает форму выбранной нежити и имеет соответствующие признаки, описанные в блоке статистики. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается. <br>Это существо дружелюбно к вам и вашим товарищам. В бою оно получает вашу инициативу и ходит сразу же после вас. Оно подчиняется вашим словесным командам (никаких действий от вас не требуется). Если вы ничего не приказываете, то оно совершает действие Уклонение и перемещается, избегая опасностей. <br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 4-го уровня или выше, характеристики призываемого существа изменяются в соответствии с описанием в блоке статистики."
   }
@@ -12966,7 +12966,7 @@ var allSpells = [
    "castingTime": "1 action",
    "range": "Self (30-foot line)",
    "components": "V, S, M",
-   "materials": "(a bit of rotten food)",
+   "materials": "a bit of rotten food",
    "duration": "Concentration, up to 1 minute",
    "text": "A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell's duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at start of each of its turns. <br><b>At Higher Levels.</b> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1 st.",
 	 "source": "TCoE"
@@ -12978,7 +12978,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "На себя (30-футовая линия)",
    "components": "В, С, М",
-   "materials": "(немного тухлой пищи)",
+   "materials": "немного тухлой пищи",
    "duration": "К-ция, до 1 мин",
    "text": "Вы испускаете струю кислоты вдоль линии длиной 30 футов и шириной 5 футов в выбранном вами направлении. Каждое существо, находящееся на этой линии, должно преуспеть в спасброске Ловкости, иначе станет покрыто кислотой на время действия заклинания или до тех пор, пока кто-то действием не соскребёт или не смоет кислоту с себя или другого существа. Существо, покрытое кислотой, получает 2к4 урона кислотой в начале каждого своего хода. <br><b>На больших уровнях.</b> Когда вы накладываете это заклинание, используя ячейку 2-го уровня или выше, урон увеличивается на 2к4 за каждый уровень ячейки выше первого."
   }
@@ -13003,7 +13003,7 @@ var allSpells = [
    "castingTime": "1 действие",
    "range": "90 футов",
    "components": "В, С, М",
-   "materials": "(немного тухлой пищи)",
+   "materials": "немного тухлой пищи",
    "duration": "1 раунд",
    "text": "Вы ментально хлещете одно существо, которое видите в пределах дистанции заклинания. Цель должна совершить спасбросок Интеллекта. При провале цель получает 3к6 урона психической энергией и не может совершать реакции до конца своего следующего хода. Более того, цель должна выбрать, что она будет делать в свой следующий ход: передвигаться, совершать действие или бонусное действие — цель может совершить лишь что-то одно. При успехе цель получает половину урона и избегает других эффектов заклинания. На больших уровнях. Когда вы накладываете это заклинание, используя ячейку 3-го уровня или выше, вы можете нацелиться на одно дополнительное существо за каждый уровень ячейки выше второго. Все цели заклинания должны быть в пределах 30 футов друг от друга во время накладывания заклинания."
   }
@@ -13016,7 +13016,7 @@ var allSpells = [
    "castingTime": "1 bonus action",
    "range": "Self",
    "components": "V, $, M",
-   "materials": "(an object engraved with a symbol of the Outer Planes, worth at least 500 gp)",
+   "materials": "an object engraved with a symbol of the Outer Planes, worth at least 500 gp",
    "duration": "Concentration, up to 1 minute",
    "text": "Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:<br> • You are immune to fire and poison damage (Lower Planes) or radiant and necrotic damage (Upper Planes).<br> • You are immune to the poisoned condition (Lower Planes) or the charmed condition (Upper Planes).<br> • Spectral wings appear on your back, giving you a flying speed of 40 feet.<br> • You have a +2 bonus to AC.<br> • All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.<br> • You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.",
 	 "source": "TCoE"
@@ -13028,7 +13028,7 @@ var allSpells = [
    "castingTime": "1 бонусное действие",
    "range": "На себя",
    "components": "В, С, М",
-   "materials": "(предмет с выгравированным символом Внешних планов, стоимостью не менее 500 зм)",
+   "materials": "предмет с выгравированным символом Внешних планов, стоимостью не менее 500 зм",
    "duration": "К-ция, до 1 мин",
 	 "text": "Произнося заклинание, вы обращаетесь к магии Нижних или Верхних планов (по вашему выбору), для преобразования себя. Вы получаете следующие преимущества до тех пор, пока заклинание не закончится: <br> • Вы имеет иммунитет к урону огнём и ядом (Нижние планы) или к урону излучением и некротической энергией (Верхние планы). <br> • Вы имеете иммунитет к состоянию «отравленный» (Нижние планы) или к состоянию «очарованный» (Верхние планы). <br> • За вашей спиной появляются призрачные крылья, дарующие скорость полета 40 футов. • Вы получаете бонус +2 к КД. <br> • Все ваши атаки оружием считаются магическими, и когда вы совершаете атаку оружием, вы можете использовать свой модификатор базовой характеристики вместо Силы или Ловкости для бросков атаки и урона.<br>  • Действием Атака вы можете совершить две атаки вместо одной. Вы не получаете это преимущество, если у вас уже есть подобное умение (например, «Дополнительная атака»), которое позволяет атаковать более одного раза за действие Атака."
   }
