@@ -1385,7 +1385,7 @@ p {
   border: 9px solid #e01a10;
   border-bottom-width: 25px;
   position: relative;
-  color: #666666;
+  color: #000000;
 }
 .spellCard.selected {
   transform: scale(0.94);
@@ -1396,7 +1396,7 @@ p {
   outline-color: #487EC5;
 }
 .spellCard .content {
-  border-radius: 5px;
+  border-radius: 10px;
   background: #fff;
   position: absolute;
   top: 0;
@@ -1470,23 +1470,23 @@ p {
   text-shadow: 0 0 2px #487EC5;
 }
 .Bard .spellCard {
-  background-color: #e91e63;
-  border-color: #e91e63;
+  background-color: #673ab7;
+  border-color: #673ab7;
 }
 .Bard .spellCard h1 {
-  border-bottom-color: #e91e63;
+  border-bottom-color: #673ab7;
 }
 .Bard .spellCard .materials {
-  background: #e91e63 !important;
+  background: #673ab7 !important;
 }
 .Bard .spellCard .row {
-  border-bottom-color: #e91e63;
+  border-bottom-color: #673ab7;
 }
 .Bard .spellCard .row .cell:first-of-type {
-  border-right-color: #e91e63;
+  border-right-color: #673ab7;
 }
 .Bard .spellCard .row .cell:last-of-type {
-  border-left-color: #e91e63;
+  border-left-color: #673ab7;
 }
 .Cleric .spellCard {
   background-color: #FDD835;
@@ -1584,23 +1584,23 @@ p {
   border-left-color: #ff9800;
 }
 .Warlock .spellCard {
-  background-color: #673ab7;
-  border-color: #673ab7;
+  background-color: #e91e63;
+  border-color: #e91e63;
 }
 .Warlock .spellCard h1 {
-  border-bottom-color: #673ab7;
+  border-bottom-color: #e91e63;
 }
 .Warlock .spellCard .materials {
-  background: #673ab7 !important;
+  background: #e91e63 !important;
 }
 .Warlock .spellCard .row {
-  border-bottom-color: #673ab7;
+  border-bottom-color: #e91e63;
 }
 .Warlock .spellCard .row .cell:first-of-type {
-  border-right-color: #673ab7;
+  border-right-color: #e91e63;
 }
 .Warlock .spellCard .row .cell:last-of-type {
-  border-left-color: #673ab7;
+  border-left-color: #e91e63;
 }
 .Wizard .spellCard {
   background-color: #f44336;
