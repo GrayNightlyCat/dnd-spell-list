@@ -213,8 +213,8 @@ window.onload = function(){
 			var st_castingTime, st_range, st_components, st_duration;
 			switch (lang){
 				case "ru":
-					s_level = s_level>0? s_level + " круг" : "Трюк";
-					st_castingTime = "Время накладывания";
+					s_level = s_level>0? s_level + " уровень" : "Заговор";
+					st_castingTime = "Накладывание";
 					st_range = "Дистанция";
 					st_components = "Компоненты";
 					st_duration = "Длительность";
