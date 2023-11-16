@@ -5,7 +5,7 @@ var schoolList = {
 				"title": "Conjuration"
 			},
 			"ru": {
-				"title": "Призыв"
+				"title": "Вызов"
 			}
 		},
 		"checked": false,
@@ -41,7 +41,7 @@ var schoolList = {
 				"title": "Evocation"
 			},
 			"ru": {
-				"title": "Проявление"
+				"title": "Воплощение"
 			}
 		},
 		"checked": false,
@@ -129,7 +129,7 @@ var oLevelsText= {
 				"title": "lvl"
 			},
 			"ru": {
-				"title": "круг"
+				"title": "уровень"
 			}
 	},
 	"0": {
@@ -138,7 +138,7 @@ var oLevelsText= {
 				"title": "Cantrip"
 			},
 			"ru": {
-				"title": "Трюк"
+				"title": "Заговор"
 			}
 		}
 	}
@@ -211,7 +211,7 @@ var oDict = {
 				"title": "Casting Time"
 			},
 			"ru": {
-				"title": "Время накладывания"
+				"title": "Накладывание"
 			}
 		
 	},
