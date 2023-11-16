@@ -1489,23 +1489,23 @@ p {
   border-left-color: #673ab7;
 }
 .Cleric .spellCard {
-  background-color: #FDD835;
-  border-color: #FDD835;
+  background-color: #aaa9ad;
+  border-color: #aaa9ad;
 }
 .Cleric .spellCard h1 {
-  border-bottom-color: #FDD835;
+  border-bottom-color: #aaa9ad;
 }
 .Cleric .spellCard .materials {
-  background: #FDD835 !important;
+  background: #aaa9ad !important;
 }
 .Cleric .spellCard .row {
-  border-bottom-color: #FDD835;
+  border-bottom-color: #aaa9ad;
 }
 .Cleric .spellCard .row .cell:first-of-type {
-  border-right-color: #FDD835;
+  border-right-color: #aaa9ad;
 }
 .Cleric .spellCard .row .cell:last-of-type {
-  border-left-color: #FDD835;
+  border-left-color: #aaa9ad;
 }
 .Druid .spellCard {
   background-color: #795548;
@@ -1527,23 +1527,23 @@ p {
   border-left-color: #795548;
 }
 .Paladin .spellCard {
-  background-color: #2196f3;
-  border-color: #2196f3;
+  background-color: #cca43d;
+  border-color: #cca43d;
 }
 .Paladin .spellCard h1 {
-  border-bottom-color: #2196f3;
+  border-bottom-color: #cca43d;
 }
 .Paladin .spellCard .materials {
-  background: #2196f3 !important;
+  background: #cca43d !important;
 }
 .Paladin .spellCard .row {
-  border-bottom-color: #2196f3;
+  border-bottom-color: #cca43d;
 }
 .Paladin .spellCard .row .cell:first-of-type {
-  border-right-color: #2196f3;
+  border-right-color: #cca43d;
 }
 .Paladin .spellCard .row .cell:last-of-type {
-  border-left-color: #2196f3;
+  border-left-color: #cca43d;
 }
 .Ranger .spellCard {
   background-color: #4caf50;
