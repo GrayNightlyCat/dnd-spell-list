@@ -98,7 +98,7 @@ var allSpells = [
       "school": "Воплощение",
       "castingTime": "1 действие",
       "range": "120 футов",
-      "materials": "фосфор, гнилушка или светлячок",
+      "materials": "кусочек фосфора, гнилушка или светлячок",
       "components": "В, С, M",
       "duration": "К-ция, до 1 мин",
       "source": "PHB"
