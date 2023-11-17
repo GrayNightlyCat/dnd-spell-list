@@ -1063,7 +1063,7 @@ p {
 }
 @media screen and (min-width: 65em) {
   body {
-    background: url('../img/bg2.jpg') center center no-repeat;
+    background: url('../img/bg3.jpg') center center no-repeat;
     background-attachment: fixed;
     background-size: cover;
   }
